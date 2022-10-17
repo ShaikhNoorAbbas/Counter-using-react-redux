@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.button-Container
+{
+  background-color: rgba(132, 135, 190, 0.329);
+  padding: 10px;
+}
+button{
+  margin: 5px;
+  background-color: rgb(159, 130, 130);
+  color: rgb(4, 3, 3);
+  padding: 5px;
+  border-radius: 5px;
+  font-weight:bold;
+  font-style: italic;
+}
+button:hover
+{
+  font-weight: 900;
+  padding: 10px;
+}
